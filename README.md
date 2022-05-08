@@ -1,6 +1,6 @@
 # telegram-data-analysis
 ## About this project:
-The main goal of this project is to collect and analyze data that i got from my Telegram chats.
+The main goal of this project is to collect and analyze data from Telegram chats.
 ## Some topics that are covered in this project:
 * Use of different languages
 * Research on private/group chat activity
